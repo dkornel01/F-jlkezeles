@@ -1,0 +1,5 @@
+Pál;22;Bp
+Ede;33;Bp
+Petra;21;Göd
+Xénia;27;Miskolc
+Ede;28;Érd
